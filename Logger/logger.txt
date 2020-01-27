@@ -1,0 +1,6 @@
+LogInformation /
+LogCritical /
+LogError /
+LogInformation /favicon.ico
+LogCritical /favicon.ico
+LogError /favicon.ico
